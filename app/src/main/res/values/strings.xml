@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MovieDB</string>
+    <string name="moviedb">MovieDB!</string>
+    <string name="search">SEARCH</string>
+    <string name="enter_movie">ENTER MOVIE</string>
+    <string name="find_title">FIND TITLE</string>
 </resources>
